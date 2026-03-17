@@ -74,7 +74,8 @@ int main() {
 
 ## Output:
 
-[Screenshot 2026-02-26 205324.pdf](https://github.com/user-attachments/files/25579803/Screenshot.2026-02-26.205324.pdf)
+<img width="686" height="894" alt="image" src="https://github.com/user-attachments/assets/9666392a-415d-4e49-9918-deb55d160abd" />
+
 
 
 ## Result:
